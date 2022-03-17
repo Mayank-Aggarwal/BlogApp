@@ -1,0 +1,14 @@
+.icon-img{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+
+.icon-img:hover {
+    transform: scale(1.5);
+    transition: 0.5s ease;
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+}

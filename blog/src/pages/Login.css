@@ -1,0 +1,13 @@
+.login__bg--container { 
+    background-image: url('../../src/images/headphones.jpg');
+    background-size: cover;
+    background-position: 50%;
+    height: 80vh;
+    margin-top: 20px;
+}
+
+.login__form  {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
